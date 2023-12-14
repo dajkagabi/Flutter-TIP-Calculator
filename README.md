@@ -1,4 +1,4 @@
-##░Tip Calculator
+## Tip Calculator
 
 A Tip Calculator egy egyszerű pénztárgép alkalmazás, amely segít kiszámolni a borravalót és a teljes összeget egy étterem számlájáról. Az alkalmazás felhasználóbarát felülettel rendelkezik, amely lehetővé teszi a felhasználó számára a számla összegének, a borravaló százalékának és a pénznemnek a beállítását.
 
