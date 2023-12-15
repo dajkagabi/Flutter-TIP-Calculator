@@ -28,7 +28,7 @@ A Tip Calculator egy egyszerű pénztárgép alkalmazás, amely segít kiszámol
 6. Az eredmények új ablakban jelennek meg, ahol láthatod a számla összegét, a borravaló összegét és a teljes összeget a kiválasztott pénznemben.
 7. Ha szeretnél újra számolni, egyszerűen kattints az "OK" gombra.
 
-Reméljük, hogy ez a Tip Calculator segítségedre lesz a helyes borravaló összeg kiszámításában és az étteremszámlák könnyebb kiegyenlítésében!
+
 
 
 
